@@ -5,7 +5,7 @@
 Hey ML geeks!! This repository contains code for small, beginner machine learning projects on most common datasets.
 
 
-![7f63587681291](https://user-images.githubusercontent.com/92772439/213056246-568d9a56-9cfe-4f75-ab11-4925b1d2c313.png)
+<img src="https://user-images.githubusercontent.com/92772439/213056246-568d9a56-9cfe-4f75-ab11-4925b1d2c313.png" width=900px height=550px>
 
 
 
